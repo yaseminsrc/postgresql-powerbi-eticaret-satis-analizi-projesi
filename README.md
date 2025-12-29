@@ -1,10 +1,8 @@
 # PostgreSQL & Power BI E-Ticaret Satış Analizi
 
-Bu proje, PostgreSQL veritabanında tutulan e-ticaret satış verilerinin  
-Power BI kullanılarak analiz edilmesini ve görselleştirilmesini amaçlamaktadır.
+Bu proje, PostgreSQL veritabanında tutulan e-ticaret satış verilerinin Power BI kullanılarak analiz edilmesini ve görselleştirilmesini amaçlamaktadır.
 
-Proje kapsamında siparişler, ürünler ve satış detayları üzerinden
-çeşitli KPI’lar hesaplanmış ve bir dashboard oluşturulmuştur.
+Proje kapsamında siparişler, ürünler ve satış detayları üzerinden çeşitli KPI’lar hesaplanmış ve bir dashboard oluşturulmuştur.
 
 ---
 
