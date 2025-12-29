@@ -49,9 +49,4 @@ Power BI dashboard’ında aşağıdaki görseller yer almaktadır:
 - Sipariş ve ürün dağılım grafikleri
 
 > 📌 Power BI Free sürümünün paylaşım kısıtları nedeniyle, dashboard
-> **PDF ve PNG formatında** rapor olarak sunulmuştur.
-
----
-
-## 📂 Proje Klasör Yapısı
-
+> **PDF formatında** rapor olarak sunulmuştur.
